@@ -1,0 +1,613 @@
+date,team,round,day,venue,GF,GA,opponent
+23/08/2025,Augsburg,Matchweek 1,Sat,Away,,,Freiburg
+30/08/2025,Augsburg,Matchweek 2,Sat,Home,,,Bayern Munich
+14/09/2025,Augsburg,Matchweek 3,Sun,Away,,,St Pauli
+20/09/2025,Augsburg,Matchweek 4,Sat,Home,,,Mainz 05
+27/09/2025,Augsburg,Matchweek 5,Sat,Away,,,Heidenheim
+04/10/2025,Augsburg,Matchweek 6,Sat,Home,,,Wolfsburg
+18/10/2025,Augsburg,Matchweek 7,Sat,Away,,,Koln
+25/10/2025,Augsburg,Matchweek 8,Sat,Home,,,RB Leipzig
+01/11/2025,Augsburg,Matchweek 9,Sat,Home,,,Dortmund
+08/11/2025,Augsburg,Matchweek 10,Sat,Away,,,Stuttgart
+22/11/2025,Augsburg,Matchweek 11,Sat,Home,,,Hamburger SV
+29/11/2025,Augsburg,Matchweek 12,Sat,Away,,,Hoffenheim
+06/12/2025,Augsburg,Matchweek 13,Sat,Home,,,Leverkusen
+13/12/2025,Augsburg,Matchweek 14,Sat,Away,,,Eintracht Frankfurt
+20/12/2025,Augsburg,Matchweek 15,Sat,Home,,,Werder Bremen
+10/01/2026,Augsburg,Matchweek 16,Sat,Away,,,Gladbach
+14/01/2026,Augsburg,Matchweek 17,Wed,Home,,,Union Berlin
+17/01/2026,Augsburg,Matchweek 18,Sat,Home,,,Freiburg
+24/01/2026,Augsburg,Matchweek 19,Sat,Away,,,Bayern Munich
+31/01/2026,Augsburg,Matchweek 20,Sat,Home,,,St Pauli
+07/02/2026,Augsburg,Matchweek 21,Sat,Away,,,Mainz 05
+14/02/2026,Augsburg,Matchweek 22,Sat,Home,,,Heidenheim
+21/02/2026,Augsburg,Matchweek 23,Sat,Away,,,Wolfsburg
+28/02/2026,Augsburg,Matchweek 24,Sat,Home,,,Koln
+07/03/2026,Augsburg,Matchweek 25,Sat,Away,,,RB Leipzig
+14/03/2026,Augsburg,Matchweek 26,Sat,Away,,,Dortmund
+21/03/2026,Augsburg,Matchweek 27,Sat,Home,,,Stuttgart
+04/04/2026,Augsburg,Matchweek 28,Sat,Away,,,Hamburger SV
+11/04/2026,Augsburg,Matchweek 29,Sat,Home,,,Hoffenheim
+18/04/2026,Augsburg,Matchweek 30,Sat,Away,,,Leverkusen
+25/04/2026,Augsburg,Matchweek 31,Sat,Home,,,Eintracht Frankfurt
+02/05/2026,Augsburg,Matchweek 32,Sat,Away,,,Werder Bremen
+09/05/2026,Augsburg,Matchweek 33,Sat,Home,,,Gladbach
+16/05/2026,Augsburg,Matchweek 34,Sat,Away,,,Union Berlin
+23/08/2025,Leverkusen,Matchweek 1,Sat,Home,,,Hoffenheim
+30/08/2025,Leverkusen,Matchweek 2,Sat,Away,,,Werder Bremen
+12/09/2025,Leverkusen,Matchweek 3,Fri,Home,,,Eintracht Frankfurt
+21/09/2025,Leverkusen,Matchweek 4,Sun,Home,,,Gladbach
+27/09/2025,Leverkusen,Matchweek 5,Sat,Away,,,St Pauli
+04/10/2025,Leverkusen,Matchweek 6,Sat,Home,,,Union Berlin
+18/10/2025,Leverkusen,Matchweek 7,Sat,Away,,,Mainz 05
+25/10/2025,Leverkusen,Matchweek 8,Sat,Home,,,Freiburg
+01/11/2025,Leverkusen,Matchweek 9,Sat,Away,,,Bayern Munich
+08/11/2025,Leverkusen,Matchweek 10,Sat,Home,,,Heidenheim
+22/11/2025,Leverkusen,Matchweek 11,Sat,Away,,,Wolfsburg
+29/11/2025,Leverkusen,Matchweek 12,Sat,Home,,,Dortmund
+06/12/2025,Leverkusen,Matchweek 13,Sat,Away,,,Augsburg
+13/12/2025,Leverkusen,Matchweek 14,Sat,Home,,,Koln
+20/12/2025,Leverkusen,Matchweek 15,Sat,Away,,,RB Leipzig
+10/01/2026,Leverkusen,Matchweek 16,Sat,Home,,,Stuttgart
+14/01/2026,Leverkusen,Matchweek 17,Wed,Away,,,Hamburger SV
+17/01/2026,Leverkusen,Matchweek 18,Sat,Away,,,Hoffenheim
+24/01/2026,Leverkusen,Matchweek 19,Sat,Home,,,Werder Bremen
+31/01/2026,Leverkusen,Matchweek 20,Sat,Away,,,Eintracht Frankfurt
+07/02/2026,Leverkusen,Matchweek 21,Sat,Away,,,Gladbach
+14/02/2026,Leverkusen,Matchweek 22,Sat,Home,,,St Pauli
+21/02/2026,Leverkusen,Matchweek 23,Sat,Away,,,Union Berlin
+28/02/2026,Leverkusen,Matchweek 24,Sat,Home,,,Mainz 05
+07/03/2026,Leverkusen,Matchweek 25,Sat,Away,,,Freiburg
+14/03/2026,Leverkusen,Matchweek 26,Sat,Home,,,Bayern Munich
+21/03/2026,Leverkusen,Matchweek 27,Sat,Away,,,Heidenheim
+04/04/2026,Leverkusen,Matchweek 28,Sat,Home,,,Wolfsburg
+11/04/2026,Leverkusen,Matchweek 29,Sat,Away,,,Dortmund
+18/04/2026,Leverkusen,Matchweek 30,Sat,Home,,,Augsburg
+25/04/2026,Leverkusen,Matchweek 31,Sat,Away,,,Koln
+02/05/2026,Leverkusen,Matchweek 32,Sat,Home,,,RB Leipzig
+09/05/2026,Leverkusen,Matchweek 33,Sat,Away,,,Stuttgart
+16/05/2026,Leverkusen,Matchweek 34,Sat,Home,,,Hamburger SV
+22/08/2025,Bayern Munich,Matchweek 1,Fri,Home,,,RB Leipzig
+30/08/2025,Bayern Munich,Matchweek 2,Sat,Away,,,Augsburg
+13/09/2025,Bayern Munich,Matchweek 3,Sat,Home,,,Hamburger SV
+20/09/2025,Bayern Munich,Matchweek 4,Sat,Away,,,Hoffenheim
+26/09/2025,Bayern Munich,Matchweek 5,Fri,Home,,,Werder Bremen
+04/10/2025,Bayern Munich,Matchweek 6,Sat,Away,,,Eintracht Frankfurt
+18/10/2025,Bayern Munich,Matchweek 7,Sat,Home,,,Dortmund
+25/10/2025,Bayern Munich,Matchweek 8,Sat,Away,,,Gladbach
+01/11/2025,Bayern Munich,Matchweek 9,Sat,Home,,,Leverkusen
+08/11/2025,Bayern Munich,Matchweek 10,Sat,Away,,,Union Berlin
+22/11/2025,Bayern Munich,Matchweek 11,Sat,Home,,,Freiburg
+29/11/2025,Bayern Munich,Matchweek 12,Sat,Home,,,St Pauli
+06/12/2025,Bayern Munich,Matchweek 13,Sat,Away,,,Stuttgart
+13/12/2025,Bayern Munich,Matchweek 14,Sat,Home,,,Mainz 05
+20/12/2025,Bayern Munich,Matchweek 15,Sat,Away,,,Heidenheim
+10/01/2026,Bayern Munich,Matchweek 16,Sat,Home,,,Wolfsburg
+14/01/2026,Bayern Munich,Matchweek 17,Wed,Away,,,Koln
+17/01/2026,Bayern Munich,Matchweek 18,Sat,Away,,,RB Leipzig
+24/01/2026,Bayern Munich,Matchweek 19,Sat,Home,,,Augsburg
+31/01/2026,Bayern Munich,Matchweek 20,Sat,Away,,,Hamburger SV
+07/02/2026,Bayern Munich,Matchweek 21,Sat,Home,,,Hoffenheim
+14/02/2026,Bayern Munich,Matchweek 22,Sat,Away,,,Werder Bremen
+21/02/2026,Bayern Munich,Matchweek 23,Sat,Home,,,Eintracht Frankfurt
+28/02/2026,Bayern Munich,Matchweek 24,Sat,Away,,,Dortmund
+07/03/2026,Bayern Munich,Matchweek 25,Sat,Home,,,Gladbach
+14/03/2026,Bayern Munich,Matchweek 26,Sat,Away,,,Leverkusen
+21/03/2026,Bayern Munich,Matchweek 27,Sat,Home,,,Union Berlin
+04/04/2026,Bayern Munich,Matchweek 28,Sat,Away,,,Freiburg
+11/04/2026,Bayern Munich,Matchweek 29,Sat,Away,,,St Pauli
+18/04/2026,Bayern Munich,Matchweek 30,Sat,Home,,,Stuttgart
+25/04/2026,Bayern Munich,Matchweek 31,Sat,Away,,,Mainz 05
+02/05/2026,Bayern Munich,Matchweek 32,Sat,Home,,,Heidenheim
+09/05/2026,Bayern Munich,Matchweek 33,Sat,Away,,,Wolfsburg
+16/05/2026,Bayern Munich,Matchweek 34,Sat,Home,,,Koln
+23/08/2025,Dortmund,Matchweek 1,Sat,Away,,,St Pauli
+31/08/2025,Dortmund,Matchweek 2,Sun,Home,,,Union Berlin
+13/09/2025,Dortmund,Matchweek 3,Sat,Away,,,Heidenheim
+21/09/2025,Dortmund,Matchweek 4,Sun,Home,,,Wolfsburg
+27/09/2025,Dortmund,Matchweek 5,Sat,Away,,,Mainz 05
+04/10/2025,Dortmund,Matchweek 6,Sat,Home,,,RB Leipzig
+18/10/2025,Dortmund,Matchweek 7,Sat,Away,,,Bayern Munich
+25/10/2025,Dortmund,Matchweek 8,Sat,Home,,,Koln
+01/11/2025,Dortmund,Matchweek 9,Sat,Away,,,Augsburg
+08/11/2025,Dortmund,Matchweek 10,Sat,Away,,,Hamburger SV
+22/11/2025,Dortmund,Matchweek 11,Sat,Home,,,Stuttgart
+29/11/2025,Dortmund,Matchweek 12,Sat,Away,,,Leverkusen
+06/12/2025,Dortmund,Matchweek 13,Sat,Home,,,Hoffenheim
+13/12/2025,Dortmund,Matchweek 14,Sat,Away,,,Freiburg
+20/12/2025,Dortmund,Matchweek 15,Sat,Home,,,Gladbach
+10/01/2026,Dortmund,Matchweek 16,Sat,Away,,,Eintracht Frankfurt
+14/01/2026,Dortmund,Matchweek 17,Wed,Home,,,Werder Bremen
+17/01/2026,Dortmund,Matchweek 18,Sat,Home,,,St Pauli
+24/01/2026,Dortmund,Matchweek 19,Sat,Away,,,Union Berlin
+31/01/2026,Dortmund,Matchweek 20,Sat,Home,,,Heidenheim
+07/02/2026,Dortmund,Matchweek 21,Sat,Away,,,Wolfsburg
+14/02/2026,Dortmund,Matchweek 22,Sat,Home,,,Mainz 05
+21/02/2026,Dortmund,Matchweek 23,Sat,Away,,,RB Leipzig
+28/02/2026,Dortmund,Matchweek 24,Sat,Home,,,Bayern Munich
+07/03/2026,Dortmund,Matchweek 25,Sat,Away,,,Koln
+14/03/2026,Dortmund,Matchweek 26,Sat,Home,,,Augsburg
+21/03/2026,Dortmund,Matchweek 27,Sat,Home,,,Hamburger SV
+04/04/2026,Dortmund,Matchweek 28,Sat,Away,,,Stuttgart
+11/04/2026,Dortmund,Matchweek 29,Sat,Home,,,Leverkusen
+18/04/2026,Dortmund,Matchweek 30,Sat,Away,,,Hoffenheim
+25/04/2026,Dortmund,Matchweek 31,Sat,Home,,,Freiburg
+02/05/2026,Dortmund,Matchweek 32,Sat,Away,,,Gladbach
+09/05/2026,Dortmund,Matchweek 33,Sat,Home,,,Eintracht Frankfurt
+16/05/2026,Dortmund,Matchweek 34,Sat,Away,,,Werder Bremen
+23/08/2025,Eintracht Frankfurt,Matchweek 1,Sat,Home,,,Werder Bremen
+30/08/2025,Eintracht Frankfurt,Matchweek 2,Sat,Away,,,Hoffenheim
+12/09/2025,Eintracht Frankfurt,Matchweek 3,Fri,Away,,,Leverkusen
+21/09/2025,Eintracht Frankfurt,Matchweek 4,Sun,Home,,,Union Berlin
+27/09/2025,Eintracht Frankfurt,Matchweek 5,Sat,Away,,,Gladbach
+04/10/2025,Eintracht Frankfurt,Matchweek 6,Sat,Home,,,Bayern Munich
+18/10/2025,Eintracht Frankfurt,Matchweek 7,Sat,Away,,,Freiburg
+25/10/2025,Eintracht Frankfurt,Matchweek 8,Sat,Home,,,St Pauli
+01/11/2025,Eintracht Frankfurt,Matchweek 9,Sat,Away,,,Heidenheim
+08/11/2025,Eintracht Frankfurt,Matchweek 10,Sat,Home,,,Mainz 05
+22/11/2025,Eintracht Frankfurt,Matchweek 11,Sat,Away,,,Koln
+29/11/2025,Eintracht Frankfurt,Matchweek 12,Sat,Home,,,Wolfsburg
+06/12/2025,Eintracht Frankfurt,Matchweek 13,Sat,Away,,,RB Leipzig
+13/12/2025,Eintracht Frankfurt,Matchweek 14,Sat,Home,,,Augsburg
+20/12/2025,Eintracht Frankfurt,Matchweek 15,Sat,Away,,,Hamburger SV
+10/01/2026,Eintracht Frankfurt,Matchweek 16,Sat,Home,,,Dortmund
+14/01/2026,Eintracht Frankfurt,Matchweek 17,Wed,Away,,,Stuttgart
+17/01/2026,Eintracht Frankfurt,Matchweek 18,Sat,Away,,,Werder Bremen
+24/01/2026,Eintracht Frankfurt,Matchweek 19,Sat,Home,,,Hoffenheim
+31/01/2026,Eintracht Frankfurt,Matchweek 20,Sat,Home,,,Leverkusen
+07/02/2026,Eintracht Frankfurt,Matchweek 21,Sat,Away,,,Union Berlin
+14/02/2026,Eintracht Frankfurt,Matchweek 22,Sat,Home,,,Gladbach
+21/02/2026,Eintracht Frankfurt,Matchweek 23,Sat,Away,,,Bayern Munich
+28/02/2026,Eintracht Frankfurt,Matchweek 24,Sat,Home,,,Freiburg
+07/03/2026,Eintracht Frankfurt,Matchweek 25,Sat,Away,,,St Pauli
+14/03/2026,Eintracht Frankfurt,Matchweek 26,Sat,Home,,,Heidenheim
+21/03/2026,Eintracht Frankfurt,Matchweek 27,Sat,Away,,,Mainz 05
+04/04/2026,Eintracht Frankfurt,Matchweek 28,Sat,Home,,,Koln
+11/04/2026,Eintracht Frankfurt,Matchweek 29,Sat,Away,,,Wolfsburg
+18/04/2026,Eintracht Frankfurt,Matchweek 30,Sat,Home,,,RB Leipzig
+25/04/2026,Eintracht Frankfurt,Matchweek 31,Sat,Away,,,Augsburg
+02/05/2026,Eintracht Frankfurt,Matchweek 32,Sat,Home,,,Hamburger SV
+09/05/2026,Eintracht Frankfurt,Matchweek 33,Sat,Away,,,Dortmund
+16/05/2026,Eintracht Frankfurt,Matchweek 34,Sat,Home,,,Stuttgart
+23/08/2025,Heidenheim,Matchweek 1,Sat,Home,,,Wolfsburg
+30/08/2025,Heidenheim,Matchweek 2,Sat,Away,,,RB Leipzig
+13/09/2025,Heidenheim,Matchweek 3,Sat,Home,,,Dortmund
+20/09/2025,Heidenheim,Matchweek 4,Sat,Away,,,Hamburger SV
+27/09/2025,Heidenheim,Matchweek 5,Sat,Home,,,Augsburg
+04/10/2025,Heidenheim,Matchweek 6,Sat,Away,,,Stuttgart
+18/10/2025,Heidenheim,Matchweek 7,Sat,Home,,,Werder Bremen
+25/10/2025,Heidenheim,Matchweek 8,Sat,Away,,,Hoffenheim
+01/11/2025,Heidenheim,Matchweek 9,Sat,Home,,,Eintracht Frankfurt
+08/11/2025,Heidenheim,Matchweek 10,Sat,Away,,,Leverkusen
+22/11/2025,Heidenheim,Matchweek 11,Sat,Home,,,Gladbach
+29/11/2025,Heidenheim,Matchweek 12,Sat,Away,,,Union Berlin
+06/12/2025,Heidenheim,Matchweek 13,Sat,Home,,,Freiburg
+13/12/2025,Heidenheim,Matchweek 14,Sat,Away,,,St Pauli
+20/12/2025,Heidenheim,Matchweek 15,Sat,Home,,,Bayern Munich
+10/01/2026,Heidenheim,Matchweek 16,Sat,Home,,,Koln
+14/01/2026,Heidenheim,Matchweek 17,Wed,Away,,,Mainz 05
+17/01/2026,Heidenheim,Matchweek 18,Sat,Away,,,Wolfsburg
+24/01/2026,Heidenheim,Matchweek 19,Sat,Home,,,RB Leipzig
+31/01/2026,Heidenheim,Matchweek 20,Sat,Away,,,Dortmund
+07/02/2026,Heidenheim,Matchweek 21,Sat,Home,,,Hamburger SV
+14/02/2026,Heidenheim,Matchweek 22,Sat,Away,,,Augsburg
+21/02/2026,Heidenheim,Matchweek 23,Sat,Home,,,Stuttgart
+28/02/2026,Heidenheim,Matchweek 24,Sat,Away,,,Werder Bremen
+07/03/2026,Heidenheim,Matchweek 25,Sat,Home,,,Hoffenheim
+14/03/2026,Heidenheim,Matchweek 26,Sat,Away,,,Eintracht Frankfurt
+21/03/2026,Heidenheim,Matchweek 27,Sat,Home,,,Leverkusen
+04/04/2026,Heidenheim,Matchweek 28,Sat,Away,,,Gladbach
+11/04/2026,Heidenheim,Matchweek 29,Sat,Home,,,Union Berlin
+18/04/2026,Heidenheim,Matchweek 30,Sat,Away,,,Freiburg
+25/04/2026,Heidenheim,Matchweek 31,Sat,Home,,,St Pauli
+02/05/2026,Heidenheim,Matchweek 32,Sat,Away,,,Bayern Munich
+09/05/2026,Heidenheim,Matchweek 33,Sat,Away,,,Koln
+16/05/2026,Heidenheim,Matchweek 34,Sat,Home,,,Mainz 05
+23/08/2025,Freiburg,Matchweek 1,Sat,Home,,,Augsburg
+31/08/2025,Freiburg,Matchweek 2,Sun,Away,,,Koln
+13/09/2025,Freiburg,Matchweek 3,Sat,Home,,,Stuttgart
+20/09/2025,Freiburg,Matchweek 4,Sat,Away,,,Werder Bremen
+28/09/2025,Freiburg,Matchweek 5,Sun,Home,,,Hoffenheim
+04/10/2025,Freiburg,Matchweek 6,Sat,Away,,,Gladbach
+18/10/2025,Freiburg,Matchweek 7,Sat,Home,,,Eintracht Frankfurt
+25/10/2025,Freiburg,Matchweek 8,Sat,Away,,,Leverkusen
+01/11/2025,Freiburg,Matchweek 9,Sat,Away,,,Union Berlin
+08/11/2025,Freiburg,Matchweek 10,Sat,Home,,,St Pauli
+22/11/2025,Freiburg,Matchweek 11,Sat,Away,,,Bayern Munich
+29/11/2025,Freiburg,Matchweek 12,Sat,Home,,,Mainz 05
+06/12/2025,Freiburg,Matchweek 13,Sat,Away,,,Heidenheim
+13/12/2025,Freiburg,Matchweek 14,Sat,Home,,,Dortmund
+20/12/2025,Freiburg,Matchweek 15,Sat,Away,,,Wolfsburg
+10/01/2026,Freiburg,Matchweek 16,Sat,Home,,,Hamburger SV
+14/01/2026,Freiburg,Matchweek 17,Wed,Away,,,RB Leipzig
+17/01/2026,Freiburg,Matchweek 18,Sat,Away,,,Augsburg
+24/01/2026,Freiburg,Matchweek 19,Sat,Home,,,Koln
+31/01/2026,Freiburg,Matchweek 20,Sat,Away,,,Stuttgart
+07/02/2026,Freiburg,Matchweek 21,Sat,Home,,,Werder Bremen
+14/02/2026,Freiburg,Matchweek 22,Sat,Away,,,Hoffenheim
+21/02/2026,Freiburg,Matchweek 23,Sat,Home,,,Gladbach
+28/02/2026,Freiburg,Matchweek 24,Sat,Away,,,Eintracht Frankfurt
+07/03/2026,Freiburg,Matchweek 25,Sat,Home,,,Leverkusen
+14/03/2026,Freiburg,Matchweek 26,Sat,Home,,,Union Berlin
+21/03/2026,Freiburg,Matchweek 27,Sat,Away,,,St Pauli
+04/04/2026,Freiburg,Matchweek 28,Sat,Home,,,Bayern Munich
+11/04/2026,Freiburg,Matchweek 29,Sat,Away,,,Mainz 05
+18/04/2026,Freiburg,Matchweek 30,Sat,Home,,,Heidenheim
+25/04/2026,Freiburg,Matchweek 31,Sat,Away,,,Dortmund
+02/05/2026,Freiburg,Matchweek 32,Sat,Home,,,Wolfsburg
+09/05/2026,Freiburg,Matchweek 33,Sat,Away,,,Hamburger SV
+16/05/2026,Freiburg,Matchweek 34,Sat,Home,,,RB Leipzig
+24/08/2025,Hamburger SV,Matchweek 1,Sun,Away,,,Gladbach
+29/08/2025,Hamburger SV,Matchweek 2,Fri,Home,,,St Pauli
+13/09/2025,Hamburger SV,Matchweek 3,Sat,Away,,,Bayern Munich
+20/09/2025,Hamburger SV,Matchweek 4,Sat,Home,,,Heidenheim
+28/09/2025,Hamburger SV,Matchweek 5,Sun,Away,,,Union Berlin
+04/10/2025,Hamburger SV,Matchweek 6,Sat,Home,,,Mainz 05
+18/10/2025,Hamburger SV,Matchweek 7,Sat,Away,,,RB Leipzig
+25/10/2025,Hamburger SV,Matchweek 8,Sat,Home,,,Wolfsburg
+01/11/2025,Hamburger SV,Matchweek 9,Sat,Away,,,Koln
+08/11/2025,Hamburger SV,Matchweek 10,Sat,Home,,,Dortmund
+22/11/2025,Hamburger SV,Matchweek 11,Sat,Away,,,Augsburg
+29/11/2025,Hamburger SV,Matchweek 12,Sat,Home,,,Stuttgart
+06/12/2025,Hamburger SV,Matchweek 13,Sat,Home,,,Werder Bremen
+13/12/2025,Hamburger SV,Matchweek 14,Sat,Away,,,Hoffenheim
+20/12/2025,Hamburger SV,Matchweek 15,Sat,Home,,,Eintracht Frankfurt
+10/01/2026,Hamburger SV,Matchweek 16,Sat,Away,,,Freiburg
+14/01/2026,Hamburger SV,Matchweek 17,Wed,Home,,,Leverkusen
+17/01/2026,Hamburger SV,Matchweek 18,Sat,Home,,,Gladbach
+24/01/2026,Hamburger SV,Matchweek 19,Sat,Away,,,St Pauli
+31/01/2026,Hamburger SV,Matchweek 20,Sat,Home,,,Bayern Munich
+07/02/2026,Hamburger SV,Matchweek 21,Sat,Away,,,Heidenheim
+14/02/2026,Hamburger SV,Matchweek 22,Sat,Home,,,Union Berlin
+21/02/2026,Hamburger SV,Matchweek 23,Sat,Away,,,Mainz 05
+28/02/2026,Hamburger SV,Matchweek 24,Sat,Home,,,RB Leipzig
+07/03/2026,Hamburger SV,Matchweek 25,Sat,Away,,,Wolfsburg
+14/03/2026,Hamburger SV,Matchweek 26,Sat,Home,,,Koln
+21/03/2026,Hamburger SV,Matchweek 27,Sat,Away,,,Dortmund
+04/04/2026,Hamburger SV,Matchweek 28,Sat,Home,,,Augsburg
+11/04/2026,Hamburger SV,Matchweek 29,Sat,Away,,,Stuttgart
+18/04/2026,Hamburger SV,Matchweek 30,Sat,Away,,,Werder Bremen
+25/04/2026,Hamburger SV,Matchweek 31,Sat,Home,,,Hoffenheim
+02/05/2026,Hamburger SV,Matchweek 32,Sat,Away,,,Eintracht Frankfurt
+09/05/2026,Hamburger SV,Matchweek 33,Sat,Home,,,Freiburg
+16/05/2026,Hamburger SV,Matchweek 34,Sat,Away,,,Leverkusen
+23/08/2025,Hoffenheim,Matchweek 1,Sat,Away,,,Leverkusen
+30/08/2025,Hoffenheim,Matchweek 2,Sat,Home,,,Eintracht Frankfurt
+13/09/2025,Hoffenheim,Matchweek 3,Sat,Away,,,Union Berlin
+20/09/2025,Hoffenheim,Matchweek 4,Sat,Home,,,Bayern Munich
+28/09/2025,Hoffenheim,Matchweek 5,Sun,Away,,,Freiburg
+04/10/2025,Hoffenheim,Matchweek 6,Sat,Home,,,Koln
+18/10/2025,Hoffenheim,Matchweek 7,Sat,Away,,,St Pauli
+25/10/2025,Hoffenheim,Matchweek 8,Sat,Home,,,Heidenheim
+01/11/2025,Hoffenheim,Matchweek 9,Sat,Away,,,Wolfsburg
+08/11/2025,Hoffenheim,Matchweek 10,Sat,Home,,,RB Leipzig
+22/11/2025,Hoffenheim,Matchweek 11,Sat,Away,,,Mainz 05
+29/11/2025,Hoffenheim,Matchweek 12,Sat,Home,,,Augsburg
+06/12/2025,Hoffenheim,Matchweek 13,Sat,Away,,,Dortmund
+13/12/2025,Hoffenheim,Matchweek 14,Sat,Home,,,Hamburger SV
+20/12/2025,Hoffenheim,Matchweek 15,Sat,Away,,,Stuttgart
+10/01/2026,Hoffenheim,Matchweek 16,Sat,Away,,,Werder Bremen
+14/01/2026,Hoffenheim,Matchweek 17,Wed,Home,,,Gladbach
+17/01/2026,Hoffenheim,Matchweek 18,Sat,Home,,,Leverkusen
+24/01/2026,Hoffenheim,Matchweek 19,Sat,Away,,,Eintracht Frankfurt
+31/01/2026,Hoffenheim,Matchweek 20,Sat,Home,,,Union Berlin
+07/02/2026,Hoffenheim,Matchweek 21,Sat,Away,,,Bayern Munich
+14/02/2026,Hoffenheim,Matchweek 22,Sat,Home,,,Freiburg
+21/02/2026,Hoffenheim,Matchweek 23,Sat,Away,,,Koln
+28/02/2026,Hoffenheim,Matchweek 24,Sat,Home,,,St Pauli
+07/03/2026,Hoffenheim,Matchweek 25,Sat,Away,,,Heidenheim
+14/03/2026,Hoffenheim,Matchweek 26,Sat,Home,,,Wolfsburg
+21/03/2026,Hoffenheim,Matchweek 27,Sat,Away,,,RB Leipzig
+04/04/2026,Hoffenheim,Matchweek 28,Sat,Home,,,Mainz 05
+11/04/2026,Hoffenheim,Matchweek 29,Sat,Away,,,Augsburg
+18/04/2026,Hoffenheim,Matchweek 30,Sat,Home,,,Dortmund
+25/04/2026,Hoffenheim,Matchweek 31,Sat,Away,,,Hamburger SV
+02/05/2026,Hoffenheim,Matchweek 32,Sat,Home,,,Stuttgart
+09/05/2026,Hoffenheim,Matchweek 33,Sat,Home,,,Werder Bremen
+16/05/2026,Hoffenheim,Matchweek 34,Sat,Away,,,Gladbach
+24/08/2025,Koln,Matchweek 1,Sun,Away,,,Mainz 05
+31/08/2025,Koln,Matchweek 2,Sun,Home,,,Freiburg
+13/09/2025,Koln,Matchweek 3,Sat,Away,,,Wolfsburg
+20/09/2025,Koln,Matchweek 4,Sat,Away,,,RB Leipzig
+28/09/2025,Koln,Matchweek 5,Sun,Home,,,Stuttgart
+04/10/2025,Koln,Matchweek 6,Sat,Away,,,Hoffenheim
+18/10/2025,Koln,Matchweek 7,Sat,Home,,,Augsburg
+25/10/2025,Koln,Matchweek 8,Sat,Away,,,Dortmund
+01/11/2025,Koln,Matchweek 9,Sat,Home,,,Hamburger SV
+08/11/2025,Koln,Matchweek 10,Sat,Away,,,Gladbach
+22/11/2025,Koln,Matchweek 11,Sat,Home,,,Eintracht Frankfurt
+29/11/2025,Koln,Matchweek 12,Sat,Away,,,Werder Bremen
+06/12/2025,Koln,Matchweek 13,Sat,Home,,,St Pauli
+13/12/2025,Koln,Matchweek 14,Sat,Away,,,Leverkusen
+20/12/2025,Koln,Matchweek 15,Sat,Home,,,Union Berlin
+10/01/2026,Koln,Matchweek 16,Sat,Away,,,Heidenheim
+14/01/2026,Koln,Matchweek 17,Wed,Home,,,Bayern Munich
+17/01/2026,Koln,Matchweek 18,Sat,Home,,,Mainz 05
+24/01/2026,Koln,Matchweek 19,Sat,Away,,,Freiburg
+31/01/2026,Koln,Matchweek 20,Sat,Home,,,Wolfsburg
+07/02/2026,Koln,Matchweek 21,Sat,Home,,,RB Leipzig
+14/02/2026,Koln,Matchweek 22,Sat,Away,,,Stuttgart
+21/02/2026,Koln,Matchweek 23,Sat,Home,,,Hoffenheim
+28/02/2026,Koln,Matchweek 24,Sat,Away,,,Augsburg
+07/03/2026,Koln,Matchweek 25,Sat,Home,,,Dortmund
+14/03/2026,Koln,Matchweek 26,Sat,Away,,,Hamburger SV
+21/03/2026,Koln,Matchweek 27,Sat,Home,,,Gladbach
+04/04/2026,Koln,Matchweek 28,Sat,Away,,,Eintracht Frankfurt
+11/04/2026,Koln,Matchweek 29,Sat,Home,,,Werder Bremen
+18/04/2026,Koln,Matchweek 30,Sat,Away,,,St Pauli
+25/04/2026,Koln,Matchweek 31,Sat,Home,,,Leverkusen
+02/05/2026,Koln,Matchweek 32,Sat,Away,,,Union Berlin
+09/05/2026,Koln,Matchweek 33,Sat,Home,,,Heidenheim
+16/05/2026,Koln,Matchweek 34,Sat,Away,,,Bayern Munich
+24/08/2025,Mainz 05,Matchweek 1,Sun,Home,,,Koln
+31/08/2025,Mainz 05,Matchweek 2,Sun,Away,,,Wolfsburg
+13/09/2025,Mainz 05,Matchweek 3,Sat,Home,,,RB Leipzig
+20/09/2025,Mainz 05,Matchweek 4,Sat,Away,,,Augsburg
+27/09/2025,Mainz 05,Matchweek 5,Sat,Home,,,Dortmund
+04/10/2025,Mainz 05,Matchweek 6,Sat,Away,,,Hamburger SV
+18/10/2025,Mainz 05,Matchweek 7,Sat,Home,,,Leverkusen
+25/10/2025,Mainz 05,Matchweek 8,Sat,Away,,,Stuttgart
+01/11/2025,Mainz 05,Matchweek 9,Sat,Home,,,Werder Bremen
+08/11/2025,Mainz 05,Matchweek 10,Sat,Away,,,Eintracht Frankfurt
+22/11/2025,Mainz 05,Matchweek 11,Sat,Home,,,Hoffenheim
+29/11/2025,Mainz 05,Matchweek 12,Sat,Away,,,Freiburg
+06/12/2025,Mainz 05,Matchweek 13,Sat,Home,,,Gladbach
+13/12/2025,Mainz 05,Matchweek 14,Sat,Away,,,Bayern Munich
+20/12/2025,Mainz 05,Matchweek 15,Sat,Home,,,St Pauli
+10/01/2026,Mainz 05,Matchweek 16,Sat,Away,,,Union Berlin
+14/01/2026,Mainz 05,Matchweek 17,Wed,Home,,,Heidenheim
+17/01/2026,Mainz 05,Matchweek 18,Sat,Away,,,Koln
+24/01/2026,Mainz 05,Matchweek 19,Sat,Home,,,Wolfsburg
+31/01/2026,Mainz 05,Matchweek 20,Sat,Away,,,RB Leipzig
+07/02/2026,Mainz 05,Matchweek 21,Sat,Home,,,Augsburg
+14/02/2026,Mainz 05,Matchweek 22,Sat,Away,,,Dortmund
+21/02/2026,Mainz 05,Matchweek 23,Sat,Home,,,Hamburger SV
+28/02/2026,Mainz 05,Matchweek 24,Sat,Away,,,Leverkusen
+07/03/2026,Mainz 05,Matchweek 25,Sat,Home,,,Stuttgart
+14/03/2026,Mainz 05,Matchweek 26,Sat,Away,,,Werder Bremen
+21/03/2026,Mainz 05,Matchweek 27,Sat,Home,,,Eintracht Frankfurt
+04/04/2026,Mainz 05,Matchweek 28,Sat,Away,,,Hoffenheim
+11/04/2026,Mainz 05,Matchweek 29,Sat,Home,,,Freiburg
+18/04/2026,Mainz 05,Matchweek 30,Sat,Away,,,Gladbach
+25/04/2026,Mainz 05,Matchweek 31,Sat,Home,,,Bayern Munich
+02/05/2026,Mainz 05,Matchweek 32,Sat,Away,,,St Pauli
+09/05/2026,Mainz 05,Matchweek 33,Sat,Home,,,Union Berlin
+16/05/2026,Mainz 05,Matchweek 34,Sat,Away,,,Heidenheim
+24/08/2025,Gladbach,Matchweek 1,Sun,Home,,,Hamburger SV
+30/08/2025,Gladbach,Matchweek 2,Sat,Away,,,Stuttgart
+14/09/2025,Gladbach,Matchweek 3,Sun,Home,,,Werder Bremen
+21/09/2025,Gladbach,Matchweek 4,Sun,Away,,,Leverkusen
+27/09/2025,Gladbach,Matchweek 5,Sat,Home,,,Eintracht Frankfurt
+04/10/2025,Gladbach,Matchweek 6,Sat,Home,,,Freiburg
+18/10/2025,Gladbach,Matchweek 7,Sat,Away,,,Union Berlin
+25/10/2025,Gladbach,Matchweek 8,Sat,Home,,,Bayern Munich
+01/11/2025,Gladbach,Matchweek 9,Sat,Away,,,St Pauli
+08/11/2025,Gladbach,Matchweek 10,Sat,Home,,,Koln
+22/11/2025,Gladbach,Matchweek 11,Sat,Away,,,Heidenheim
+29/11/2025,Gladbach,Matchweek 12,Sat,Home,,,RB Leipzig
+06/12/2025,Gladbach,Matchweek 13,Sat,Away,,,Mainz 05
+13/12/2025,Gladbach,Matchweek 14,Sat,Home,,,Wolfsburg
+20/12/2025,Gladbach,Matchweek 15,Sat,Away,,,Dortmund
+10/01/2026,Gladbach,Matchweek 16,Sat,Home,,,Augsburg
+14/01/2026,Gladbach,Matchweek 17,Wed,Away,,,Hoffenheim
+17/01/2026,Gladbach,Matchweek 18,Sat,Away,,,Hamburger SV
+24/01/2026,Gladbach,Matchweek 19,Sat,Home,,,Stuttgart
+31/01/2026,Gladbach,Matchweek 20,Sat,Away,,,Werder Bremen
+07/02/2026,Gladbach,Matchweek 21,Sat,Home,,,Leverkusen
+14/02/2026,Gladbach,Matchweek 22,Sat,Away,,,Eintracht Frankfurt
+21/02/2026,Gladbach,Matchweek 23,Sat,Away,,,Freiburg
+28/02/2026,Gladbach,Matchweek 24,Sat,Home,,,Union Berlin
+07/03/2026,Gladbach,Matchweek 25,Sat,Away,,,Bayern Munich
+14/03/2026,Gladbach,Matchweek 26,Sat,Home,,,St Pauli
+21/03/2026,Gladbach,Matchweek 27,Sat,Away,,,Koln
+04/04/2026,Gladbach,Matchweek 28,Sat,Home,,,Heidenheim
+11/04/2026,Gladbach,Matchweek 29,Sat,Away,,,RB Leipzig
+18/04/2026,Gladbach,Matchweek 30,Sat,Home,,,Mainz 05
+25/04/2026,Gladbach,Matchweek 31,Sat,Away,,,Wolfsburg
+02/05/2026,Gladbach,Matchweek 32,Sat,Home,,,Dortmund
+09/05/2026,Gladbach,Matchweek 33,Sat,Away,,,Augsburg
+16/05/2026,Gladbach,Matchweek 34,Sat,Home,,,Hoffenheim
+22/08/2025,RB Leipzig,Matchweek 1,Fri,Away,,,Bayern Munich
+30/08/2025,RB Leipzig,Matchweek 2,Sat,Home,,,Heidenheim
+13/09/2025,RB Leipzig,Matchweek 3,Sat,Away,,,Mainz 05
+20/09/2025,RB Leipzig,Matchweek 4,Sat,Home,,,Koln
+27/09/2025,RB Leipzig,Matchweek 5,Sat,Away,,,Wolfsburg
+04/10/2025,RB Leipzig,Matchweek 6,Sat,Away,,,Dortmund
+18/10/2025,RB Leipzig,Matchweek 7,Sat,Home,,,Hamburger SV
+25/10/2025,RB Leipzig,Matchweek 8,Sat,Away,,,Augsburg
+01/11/2025,RB Leipzig,Matchweek 9,Sat,Home,,,Stuttgart
+08/11/2025,RB Leipzig,Matchweek 10,Sat,Away,,,Hoffenheim
+22/11/2025,RB Leipzig,Matchweek 11,Sat,Home,,,Werder Bremen
+29/11/2025,RB Leipzig,Matchweek 12,Sat,Away,,,Gladbach
+06/12/2025,RB Leipzig,Matchweek 13,Sat,Home,,,Eintracht Frankfurt
+13/12/2025,RB Leipzig,Matchweek 14,Sat,Away,,,Union Berlin
+20/12/2025,RB Leipzig,Matchweek 15,Sat,Home,,,Leverkusen
+10/01/2026,RB Leipzig,Matchweek 16,Sat,Away,,,St Pauli
+14/01/2026,RB Leipzig,Matchweek 17,Wed,Home,,,Freiburg
+17/01/2026,RB Leipzig,Matchweek 18,Sat,Home,,,Bayern Munich
+24/01/2026,RB Leipzig,Matchweek 19,Sat,Away,,,Heidenheim
+31/01/2026,RB Leipzig,Matchweek 20,Sat,Home,,,Mainz 05
+07/02/2026,RB Leipzig,Matchweek 21,Sat,Away,,,Koln
+14/02/2026,RB Leipzig,Matchweek 22,Sat,Home,,,Wolfsburg
+21/02/2026,RB Leipzig,Matchweek 23,Sat,Home,,,Dortmund
+28/02/2026,RB Leipzig,Matchweek 24,Sat,Away,,,Hamburger SV
+07/03/2026,RB Leipzig,Matchweek 25,Sat,Home,,,Augsburg
+14/03/2026,RB Leipzig,Matchweek 26,Sat,Away,,,Stuttgart
+21/03/2026,RB Leipzig,Matchweek 27,Sat,Home,,,Hoffenheim
+04/04/2026,RB Leipzig,Matchweek 28,Sat,Away,,,Werder Bremen
+11/04/2026,RB Leipzig,Matchweek 29,Sat,Home,,,Gladbach
+18/04/2026,RB Leipzig,Matchweek 30,Sat,Away,,,Eintracht Frankfurt
+25/04/2026,RB Leipzig,Matchweek 31,Sat,Home,,,Union Berlin
+02/05/2026,RB Leipzig,Matchweek 32,Sat,Away,,,Leverkusen
+09/05/2026,RB Leipzig,Matchweek 33,Sat,Home,,,St Pauli
+16/05/2026,RB Leipzig,Matchweek 34,Sat,Away,,,Freiburg
+23/08/2025,St Pauli,Matchweek 1,Sat,Home,,,Dortmund
+29/08/2025,St Pauli,Matchweek 2,Fri,Away,,,Hamburger SV
+14/09/2025,St Pauli,Matchweek 3,Sun,Home,,,Augsburg
+19/09/2025,St Pauli,Matchweek 4,Fri,Away,,,Stuttgart
+27/09/2025,St Pauli,Matchweek 5,Sat,Home,,,Leverkusen
+04/10/2025,St Pauli,Matchweek 6,Sat,Away,,,Werder Bremen
+18/10/2025,St Pauli,Matchweek 7,Sat,Home,,,Hoffenheim
+25/10/2025,St Pauli,Matchweek 8,Sat,Away,,,Eintracht Frankfurt
+01/11/2025,St Pauli,Matchweek 9,Sat,Home,,,Gladbach
+08/11/2025,St Pauli,Matchweek 10,Sat,Away,,,Freiburg
+22/11/2025,St Pauli,Matchweek 11,Sat,Home,,,Union Berlin
+29/11/2025,St Pauli,Matchweek 12,Sat,Away,,,Bayern Munich
+06/12/2025,St Pauli,Matchweek 13,Sat,Away,,,Koln
+13/12/2025,St Pauli,Matchweek 14,Sat,Home,,,Heidenheim
+20/12/2025,St Pauli,Matchweek 15,Sat,Away,,,Mainz 05
+10/01/2026,St Pauli,Matchweek 16,Sat,Home,,,RB Leipzig
+14/01/2026,St Pauli,Matchweek 17,Wed,Away,,,Wolfsburg
+17/01/2026,St Pauli,Matchweek 18,Sat,Away,,,Dortmund
+24/01/2026,St Pauli,Matchweek 19,Sat,Home,,,Hamburger SV
+31/01/2026,St Pauli,Matchweek 20,Sat,Away,,,Augsburg
+07/02/2026,St Pauli,Matchweek 21,Sat,Home,,,Stuttgart
+14/02/2026,St Pauli,Matchweek 22,Sat,Away,,,Leverkusen
+21/02/2026,St Pauli,Matchweek 23,Sat,Home,,,Werder Bremen
+28/02/2026,St Pauli,Matchweek 24,Sat,Away,,,Hoffenheim
+07/03/2026,St Pauli,Matchweek 25,Sat,Home,,,Eintracht Frankfurt
+14/03/2026,St Pauli,Matchweek 26,Sat,Away,,,Gladbach
+21/03/2026,St Pauli,Matchweek 27,Sat,Home,,,Freiburg
+04/04/2026,St Pauli,Matchweek 28,Sat,Away,,,Union Berlin
+11/04/2026,St Pauli,Matchweek 29,Sat,Home,,,Bayern Munich
+18/04/2026,St Pauli,Matchweek 30,Sat,Home,,,Koln
+25/04/2026,St Pauli,Matchweek 31,Sat,Away,,,Heidenheim
+02/05/2026,St Pauli,Matchweek 32,Sat,Home,,,Mainz 05
+09/05/2026,St Pauli,Matchweek 33,Sat,Away,,,RB Leipzig
+16/05/2026,St Pauli,Matchweek 34,Sat,Home,,,Wolfsburg
+23/08/2025,Union Berlin,Matchweek 1,Sat,Home,,,Stuttgart
+31/08/2025,Union Berlin,Matchweek 2,Sun,Away,,,Dortmund
+13/09/2025,Union Berlin,Matchweek 3,Sat,Home,,,Hoffenheim
+21/09/2025,Union Berlin,Matchweek 4,Sun,Away,,,Eintracht Frankfurt
+28/09/2025,Union Berlin,Matchweek 5,Sun,Home,,,Hamburger SV
+04/10/2025,Union Berlin,Matchweek 6,Sat,Away,,,Leverkusen
+18/10/2025,Union Berlin,Matchweek 7,Sat,Home,,,Gladbach
+25/10/2025,Union Berlin,Matchweek 8,Sat,Away,,,Werder Bremen
+01/11/2025,Union Berlin,Matchweek 9,Sat,Home,,,Freiburg
+08/11/2025,Union Berlin,Matchweek 10,Sat,Home,,,Bayern Munich
+22/11/2025,Union Berlin,Matchweek 11,Sat,Away,,,St Pauli
+29/11/2025,Union Berlin,Matchweek 12,Sat,Home,,,Heidenheim
+06/12/2025,Union Berlin,Matchweek 13,Sat,Away,,,Wolfsburg
+13/12/2025,Union Berlin,Matchweek 14,Sat,Home,,,RB Leipzig
+20/12/2025,Union Berlin,Matchweek 15,Sat,Away,,,Koln
+10/01/2026,Union Berlin,Matchweek 16,Sat,Home,,,Mainz 05
+14/01/2026,Union Berlin,Matchweek 17,Wed,Away,,,Augsburg
+17/01/2026,Union Berlin,Matchweek 18,Sat,Away,,,Stuttgart
+24/01/2026,Union Berlin,Matchweek 19,Sat,Home,,,Dortmund
+31/01/2026,Union Berlin,Matchweek 20,Sat,Away,,,Hoffenheim
+07/02/2026,Union Berlin,Matchweek 21,Sat,Home,,,Eintracht Frankfurt
+14/02/2026,Union Berlin,Matchweek 22,Sat,Away,,,Hamburger SV
+21/02/2026,Union Berlin,Matchweek 23,Sat,Home,,,Leverkusen
+28/02/2026,Union Berlin,Matchweek 24,Sat,Away,,,Gladbach
+07/03/2026,Union Berlin,Matchweek 25,Sat,Home,,,Werder Bremen
+14/03/2026,Union Berlin,Matchweek 26,Sat,Away,,,Freiburg
+21/03/2026,Union Berlin,Matchweek 27,Sat,Away,,,Bayern Munich
+04/04/2026,Union Berlin,Matchweek 28,Sat,Home,,,St Pauli
+11/04/2026,Union Berlin,Matchweek 29,Sat,Away,,,Heidenheim
+18/04/2026,Union Berlin,Matchweek 30,Sat,Home,,,Wolfsburg
+25/04/2026,Union Berlin,Matchweek 31,Sat,Away,,,RB Leipzig
+02/05/2026,Union Berlin,Matchweek 32,Sat,Home,,,Koln
+09/05/2026,Union Berlin,Matchweek 33,Sat,Away,,,Mainz 05
+16/05/2026,Union Berlin,Matchweek 34,Sat,Home,,,Augsburg
+23/08/2025,Stuttgart,Matchweek 1,Sat,Away,,,Union Berlin
+30/08/2025,Stuttgart,Matchweek 2,Sat,Home,,,Gladbach
+13/09/2025,Stuttgart,Matchweek 3,Sat,Away,,,Freiburg
+19/09/2025,Stuttgart,Matchweek 4,Fri,Home,,,St Pauli
+28/09/2025,Stuttgart,Matchweek 5,Sun,Away,,,Koln
+04/10/2025,Stuttgart,Matchweek 6,Sat,Home,,,Heidenheim
+18/10/2025,Stuttgart,Matchweek 7,Sat,Away,,,Wolfsburg
+25/10/2025,Stuttgart,Matchweek 8,Sat,Home,,,Mainz 05
+01/11/2025,Stuttgart,Matchweek 9,Sat,Away,,,RB Leipzig
+08/11/2025,Stuttgart,Matchweek 10,Sat,Home,,,Augsburg
+22/11/2025,Stuttgart,Matchweek 11,Sat,Away,,,Dortmund
+29/11/2025,Stuttgart,Matchweek 12,Sat,Away,,,Hamburger SV
+06/12/2025,Stuttgart,Matchweek 13,Sat,Home,,,Bayern Munich
+13/12/2025,Stuttgart,Matchweek 14,Sat,Away,,,Werder Bremen
+20/12/2025,Stuttgart,Matchweek 15,Sat,Home,,,Hoffenheim
+10/01/2026,Stuttgart,Matchweek 16,Sat,Away,,,Leverkusen
+14/01/2026,Stuttgart,Matchweek 17,Wed,Home,,,Eintracht Frankfurt
+17/01/2026,Stuttgart,Matchweek 18,Sat,Home,,,Union Berlin
+24/01/2026,Stuttgart,Matchweek 19,Sat,Away,,,Gladbach
+31/01/2026,Stuttgart,Matchweek 20,Sat,Home,,,Freiburg
+07/02/2026,Stuttgart,Matchweek 21,Sat,Away,,,St Pauli
+14/02/2026,Stuttgart,Matchweek 22,Sat,Home,,,Koln
+21/02/2026,Stuttgart,Matchweek 23,Sat,Away,,,Heidenheim
+28/02/2026,Stuttgart,Matchweek 24,Sat,Home,,,Wolfsburg
+07/03/2026,Stuttgart,Matchweek 25,Sat,Away,,,Mainz 05
+14/03/2026,Stuttgart,Matchweek 26,Sat,Home,,,RB Leipzig
+21/03/2026,Stuttgart,Matchweek 27,Sat,Away,,,Augsburg
+04/04/2026,Stuttgart,Matchweek 28,Sat,Home,,,Dortmund
+11/04/2026,Stuttgart,Matchweek 29,Sat,Home,,,Hamburger SV
+18/04/2026,Stuttgart,Matchweek 30,Sat,Away,,,Bayern Munich
+25/04/2026,Stuttgart,Matchweek 31,Sat,Home,,,Werder Bremen
+02/05/2026,Stuttgart,Matchweek 32,Sat,Away,,,Hoffenheim
+09/05/2026,Stuttgart,Matchweek 33,Sat,Home,,,Leverkusen
+16/05/2026,Stuttgart,Matchweek 34,Sat,Away,,,Eintracht Frankfurt
+23/08/2025,Wolfsburg,Matchweek 1,Sat,Away,,,Heidenheim
+31/08/2025,Wolfsburg,Matchweek 2,Sun,Home,,,Mainz 05
+13/09/2025,Wolfsburg,Matchweek 3,Sat,Home,,,Koln
+21/09/2025,Wolfsburg,Matchweek 4,Sun,Away,,,Dortmund
+27/09/2025,Wolfsburg,Matchweek 5,Sat,Home,,,RB Leipzig
+04/10/2025,Wolfsburg,Matchweek 6,Sat,Away,,,Augsburg
+18/10/2025,Wolfsburg,Matchweek 7,Sat,Home,,,Stuttgart
+25/10/2025,Wolfsburg,Matchweek 8,Sat,Away,,,Hamburger SV
+01/11/2025,Wolfsburg,Matchweek 9,Sat,Home,,,Hoffenheim
+08/11/2025,Wolfsburg,Matchweek 10,Sat,Away,,,Werder Bremen
+22/11/2025,Wolfsburg,Matchweek 11,Sat,Home,,,Leverkusen
+29/11/2025,Wolfsburg,Matchweek 12,Sat,Away,,,Eintracht Frankfurt
+06/12/2025,Wolfsburg,Matchweek 13,Sat,Home,,,Union Berlin
+13/12/2025,Wolfsburg,Matchweek 14,Sat,Away,,,Gladbach
+20/12/2025,Wolfsburg,Matchweek 15,Sat,Home,,,Freiburg
+10/01/2026,Wolfsburg,Matchweek 16,Sat,Away,,,Bayern Munich
+14/01/2026,Wolfsburg,Matchweek 17,Wed,Home,,,St Pauli
+17/01/2026,Wolfsburg,Matchweek 18,Sat,Home,,,Heidenheim
+24/01/2026,Wolfsburg,Matchweek 19,Sat,Away,,,Mainz 05
+31/01/2026,Wolfsburg,Matchweek 20,Sat,Away,,,Koln
+07/02/2026,Wolfsburg,Matchweek 21,Sat,Home,,,Dortmund
+14/02/2026,Wolfsburg,Matchweek 22,Sat,Away,,,RB Leipzig
+21/02/2026,Wolfsburg,Matchweek 23,Sat,Home,,,Augsburg
+28/02/2026,Wolfsburg,Matchweek 24,Sat,Away,,,Stuttgart
+07/03/2026,Wolfsburg,Matchweek 25,Sat,Home,,,Hamburger SV
+14/03/2026,Wolfsburg,Matchweek 26,Sat,Away,,,Hoffenheim
+21/03/2026,Wolfsburg,Matchweek 27,Sat,Home,,,Werder Bremen
+04/04/2026,Wolfsburg,Matchweek 28,Sat,Away,,,Leverkusen
+11/04/2026,Wolfsburg,Matchweek 29,Sat,Home,,,Eintracht Frankfurt
+18/04/2026,Wolfsburg,Matchweek 30,Sat,Away,,,Union Berlin
+25/04/2026,Wolfsburg,Matchweek 31,Sat,Home,,,Gladbach
+02/05/2026,Wolfsburg,Matchweek 32,Sat,Away,,,Freiburg
+09/05/2026,Wolfsburg,Matchweek 33,Sat,Home,,,Bayern Munich
+16/05/2026,Wolfsburg,Matchweek 34,Sat,Away,,,St Pauli
+23/08/2025,Werder Bremen,Matchweek 1,Sat,Away,,,Eintracht Frankfurt
+30/08/2025,Werder Bremen,Matchweek 2,Sat,Home,,,Leverkusen
+14/09/2025,Werder Bremen,Matchweek 3,Sun,Away,,,Gladbach
+20/09/2025,Werder Bremen,Matchweek 4,Sat,Home,,,Freiburg
+26/09/2025,Werder Bremen,Matchweek 5,Fri,Away,,,Bayern Munich
+04/10/2025,Werder Bremen,Matchweek 6,Sat,Home,,,St Pauli
+18/10/2025,Werder Bremen,Matchweek 7,Sat,Away,,,Heidenheim
+25/10/2025,Werder Bremen,Matchweek 8,Sat,Home,,,Union Berlin
+01/11/2025,Werder Bremen,Matchweek 9,Sat,Away,,,Mainz 05
+08/11/2025,Werder Bremen,Matchweek 10,Sat,Home,,,Wolfsburg
+22/11/2025,Werder Bremen,Matchweek 11,Sat,Away,,,RB Leipzig
+29/11/2025,Werder Bremen,Matchweek 12,Sat,Home,,,Koln
+06/12/2025,Werder Bremen,Matchweek 13,Sat,Away,,,Hamburger SV
+13/12/2025,Werder Bremen,Matchweek 14,Sat,Home,,,Stuttgart
+20/12/2025,Werder Bremen,Matchweek 15,Sat,Away,,,Augsburg
+10/01/2026,Werder Bremen,Matchweek 16,Sat,Home,,,Hoffenheim
+14/01/2026,Werder Bremen,Matchweek 17,Wed,Away,,,Dortmund
+17/01/2026,Werder Bremen,Matchweek 18,Sat,Home,,,Eintracht Frankfurt
+24/01/2026,Werder Bremen,Matchweek 19,Sat,Away,,,Leverkusen
+31/01/2026,Werder Bremen,Matchweek 20,Sat,Home,,,Gladbach
+07/02/2026,Werder Bremen,Matchweek 21,Sat,Away,,,Freiburg
+14/02/2026,Werder Bremen,Matchweek 22,Sat,Home,,,Bayern Munich
+21/02/2026,Werder Bremen,Matchweek 23,Sat,Away,,,St Pauli
+28/02/2026,Werder Bremen,Matchweek 24,Sat,Home,,,Heidenheim
+07/03/2026,Werder Bremen,Matchweek 25,Sat,Away,,,Union Berlin
+14/03/2026,Werder Bremen,Matchweek 26,Sat,Home,,,Mainz 05
+21/03/2026,Werder Bremen,Matchweek 27,Sat,Away,,,Wolfsburg
+04/04/2026,Werder Bremen,Matchweek 28,Sat,Home,,,RB Leipzig
+11/04/2026,Werder Bremen,Matchweek 29,Sat,Away,,,Koln
+18/04/2026,Werder Bremen,Matchweek 30,Sat,Home,,,Hamburger SV
+25/04/2026,Werder Bremen,Matchweek 31,Sat,Away,,,Stuttgart
+02/05/2026,Werder Bremen,Matchweek 32,Sat,Home,,,Augsburg
+09/05/2026,Werder Bremen,Matchweek 33,Sat,Away,,,Hoffenheim
+16/05/2026,Werder Bremen,Matchweek 34,Sat,Home,,,Dortmund
